@@ -3,7 +3,7 @@
 ###
 
 I'm currently an FPGA Application Engineer at Altera, specialising in Ethernet. Proficient in RTL programming, as well as Python and C++. 
-Currently working on improving my embedded software skills :)
+Currently working on improving my embedded software skills! Study repo's to come...
 
 ###
 
